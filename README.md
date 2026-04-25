@@ -1,4 +1,6 @@
 # Library-Management
+## NAME : YAZHINI R R
+## REG.NO : 212224100063
 
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
